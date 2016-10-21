@@ -1,0 +1,15 @@
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\Libs\weather_few_clouds.ico
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\WeatherUtility.exe.config
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\WeatherUtility.exe
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\WeatherUtility.pdb
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\SwitchBatchManagerCommons.dll
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\SwitchStorage.dll
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\bin\Release\Microsoft.Azure.KeyVault.Core.dll
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\obj\Release\WeatherUtility.Properties.Resources.resources
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\obj\Release\WeatherUtility.WeatherUtilityForm.resources
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\obj\Release\WeatherUtility.csproj.GenerateResource.Cache
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\obj\Release\WeatherUtility.exe
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\obj\Release\WeatherUtility.pdb
+C:\Projects\MiscProjects\WeatherUtility\WeatherUtility\WeatherUtility\obj\Release\WeatherUtility.csprojResolveAssemblyReference.cache
